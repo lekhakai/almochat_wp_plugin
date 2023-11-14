@@ -28,7 +28,7 @@ Once embedded on the website, Almo acts as a 24x7 live Customer Support and help
 
 == Installation ==
 This section describes how to install the plugin and get it working.
-1. Upload [`almochat`](link-to-github.zip) to the `/wp-content/plugins/` directory
+1. Upload [`almochat`](https://github.com/lekhakai/almochat_wp_plugin/archive/refs/heads/main.zip) to the `/wp-content/plugins/` directory
 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
