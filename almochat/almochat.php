@@ -8,7 +8,6 @@
  Description: AI-powered Chatbot solution that helps businesses automate customer interactions to manage issue resolutions, feedback collection, and more.
  Version: 1.0.0
  Author: almochat
- Author URI: https://www.almochat.com
  License: GPLv2 or later
  Text Domain: almochat
  */
